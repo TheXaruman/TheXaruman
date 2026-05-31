@@ -1,4 +1,4 @@
-<pre style="background: #1e1e2e; padding: 25px; border-radius: 12px; font-weight: bold; line-height: 1.1; font-size: 14px; overflow-x: auto;">
+<pre style="background: #1e1e2e; padding: 25px; border-radius: 12px; font-weight: bold; line-height: 1.1; font-size: 14px; overflow-x: auto; text-align: center;">
 <span style="color: #f5e0dc;">⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀                    
 ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀
